@@ -11,6 +11,7 @@
 		E024D7CF2861D127008AA629 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E024D7CE2861D127008AA629 /* ContentView.swift */; };
 		E024D7D12861D12A008AA629 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E024D7D02861D12A008AA629 /* Assets.xcassets */; };
 		E024D7D42861D12A008AA629 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E024D7D32861D12A008AA629 /* Preview Assets.xcassets */; };
+		E024D7DB2861D14C008AA629 /* CustomTabs.swift in Sources */ = {isa = PBXBuildFile; fileRef = E024D7DA2861D14C008AA629 /* CustomTabs.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E024D7CE2861D127008AA629 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E024D7D02861D12A008AA629 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E024D7D32861D12A008AA629 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E024D7DA2861D14C008AA629 /* CustomTabs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabs.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E024D7CC2861D127008AA629 /* CustomTabBar_SwiftUIApp.swift */,
 				E024D7CE2861D127008AA629 /* ContentView.swift */,
+				E024D7DA2861D14C008AA629 /* CustomTabs.swift */,
 				E024D7D02861D12A008AA629 /* Assets.xcassets */,
 				E024D7D22861D12A008AA629 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E024D7DB2861D14C008AA629 /* CustomTabs.swift in Sources */,
 				E024D7CF2861D127008AA629 /* ContentView.swift in Sources */,
 				E024D7CD2861D127008AA629 /* CustomTabBar_SwiftUIApp.swift in Sources */,
 			);
